@@ -23,8 +23,8 @@ email: Team abracAD4bra
 description:  # this means to ignore newlines until "baseurl:"
 
 domain: horror_movies.github.io  
-baseurl: "/Jekyll-test" # the subpath of your site, e.g. /blog
-url: "https://valentinecasalta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/NEW_jekyll" # the subpath of your site, e.g. /blog
+url: "https://valentineDelevaux.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
